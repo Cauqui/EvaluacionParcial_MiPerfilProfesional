@@ -36,6 +36,8 @@ text = "Jose Carlos Quispe Castro"
 
 
 textColor=##F44336 (Para el color elegido)
+
 TextSize="20sp" (Tamaño de letra elegida para el nombre del perfil)
+
 text = "Ingeniería de Sistemas"
 
