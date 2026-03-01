@@ -25,4 +25,17 @@
 Imagen elegida para la foto de la aplicativo, centrada y tamaño de 131dp y 197dp
 
 
+## Text->TextView
+<img width="261" height="75" alt="image" src="https://github.com/user-attachments/assets/0faec550-9ad3-4f9e-a0b5-3c877d9aae70" />
+
+
+Textos estáticos con el nombre y carrera del perfil
+textColor=#FF3B76 (Para el color elegido)
+TextSize="20sp" (Tamaño de letra elegida para el nombre del perfil)
+text = "Jose Carlos Quispe Castro"
+
+
+textColor=##F44336 (Para el color elegido)
+TextSize="20sp" (Tamaño de letra elegida para el nombre del perfil)
+text = "Ingeniería de Sistemas"
 
