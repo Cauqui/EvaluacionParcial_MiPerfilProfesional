@@ -30,8 +30,11 @@ Imagen elegida para la foto de la aplicativo, centrada y tamaño de 131dp y 197d
 
 
 Textos estáticos con el nombre y carrera del perfil
+
 textColor=#FF3B76 (Para el color elegido)
+
 TextSize="20sp" (Tamaño de letra elegida para el nombre del perfil)
+
 text = "Jose Carlos Quispe Castro"
 
 
@@ -40,4 +43,27 @@ textColor=##F44336 (Para el color elegido)
 TextSize="20sp" (Tamaño de letra elegida para el nombre del perfil)
 
 text = "Ingeniería de Sistemas"
+
+## Text->Plain text
+
+<img width="278" height="80" alt="image" src="https://github.com/user-attachments/assets/ca2c55b1-83d0-4a23-bfa5-8fca210407cd" />
+
+Texto que al escribir sobreescribe automaticamente 
+
+En este caso para que resule así se hace la siguiente configuración
+
+hint = "Escribe una descripcion de ti"
+
+TextColor Hint = "#2196F3" (Color elegido)
+
+
+## Text->Plain text
+
+<img width="327" height="115" alt="image" src="https://github.com/user-attachments/assets/f44f6f79-0a7f-4f86-96b5-ce3c551c9b13" />
+
+Se le cambió el color morado
+
+inderteminteTint = "#673AB7"
+
+
 
