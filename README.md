@@ -66,4 +66,24 @@ Se le cambió el color morado
 inderteminteTint = "#673AB7"
 
 
+## Buttons ->Button
+
+<img width="284" height="85" alt="image" src="https://github.com/user-attachments/assets/7983692c-f067-4328-8ecc-387c650da117" />
+
+Se cambio fondo y color de los botones "Guardar" y "Editar"
+
+text = "Guardar" (Se editó el nombre del botón)
+
+backgroundTint = "#2196F3"(color azul de fondo)
+
+textColor = "#673AB7" (color de la letra cambiada a azul)
+
+text = "Editar" (Se editó el nombre del botón)
+
+backgroundTint = "#2196F3"(color azul de fondo)
+
+textColor = "#673AB7" (color de la letra cambiada a azul)
+
+
+
 
