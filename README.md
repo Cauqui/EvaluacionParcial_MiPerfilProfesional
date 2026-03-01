@@ -8,9 +8,14 @@
 
 
 
-2) En la plantilla blanca se desarrolló la estructura base de la aplicación, agregando los Text, Buttons y Widgets como: imagenView, textView, Plain Text, ProgressBar y BButton. 
+2) En la plantilla blanca se desarrolló la estructura base de la aplicación, agregando los Text, Buttons y Widgets como: imagenView, textView, Plain Text, ProgressBar y Button. 
 
 <img width="372" height="622" alt="image" src="https://github.com/user-attachments/assets/077aa1f4-914f-4977-bba9-e340263c2203" />
+
+
+3) Corresponde a la vista final del diseño, donde se aplicaron los estilos visuales como colores, tamaños y alineaciones, asegurando que los elementos se adapten correctamente a la estructura de la pantalla.
+   
+ <img width="350" height="601" alt="image" src="https://github.com/user-attachments/assets/40e39b0b-9abb-4ad0-806f-775519d85ddd" />
 
 
 
