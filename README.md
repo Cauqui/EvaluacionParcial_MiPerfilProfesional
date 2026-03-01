@@ -21,6 +21,7 @@
 
 ## Widgets->ImagenView (imagen)
 <img width="157" height="161" alt="image" src="https://github.com/user-attachments/assets/a16a0c5a-178d-4187-8c63-169486e04e0e" />
+
 Imagen elegida para la foto de la aplicativo, centrada y tamaño de 131dp y 197dp
 
 
